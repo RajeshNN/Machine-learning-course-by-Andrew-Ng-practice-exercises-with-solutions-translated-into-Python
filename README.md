@@ -1,2 +1,2 @@
 #  Practice problems(with solutions) of Machine learning course by Andrew Ng translated into Python
-![coursera.com/learn/machine-learning](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format%2Ccompress&dpr=1)
+![coursera.com/learn/machine-learning](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mooclab.club%2Fthreads%2Fover-2m-students-have-enrolled-in-machine-learning-mooc-from-stanford.11562%2F&psig=AOvVaw1TKbcbLjDpd25IrIl-cBTa&ust=1598258013977000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCa5J31sOsCFQAAAAAdAAAAABAY)
